@@ -50,7 +50,7 @@
 
         <!-- Dependencies versions -->
         <awaitility.version>1.6.5</awaitility.version>
-        <commons-io.version>2.4</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <guava.version>18.0</guava.version>
         <httpcomponents.version>4.5.1</httpcomponents.version>
         <jackson.version>2.6.1</jackson.version>
